@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(142, 113, 209);
+
+}
+
+#footer{
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+}
